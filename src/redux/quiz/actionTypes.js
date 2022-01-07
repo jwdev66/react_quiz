@@ -1,0 +1,5 @@
+export const QUIZ_GET_REQUEST = 'QUIZ_GET_REQUEST';
+export const SET_QUIZ_LOADING = 'SET_QUIZ_LOADING';
+export const SET_QUIZ_ANSWERS = 'SET_QUIZ_ANSWERS';
+export const RESET_QUIZ_DATA = 'RESET_QUIZ_DATA';
+
